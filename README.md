@@ -1,6 +1,6 @@
 # CKA Learn Path 2023
 
-==Description==
+## Description
 
 **PREREQUISITES FOR THE LEARNING PATH PAID**
 

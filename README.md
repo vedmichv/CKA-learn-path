@@ -1,6 +1,4 @@
-# CKA Learn Path 
-The material from youtube video [Как сдать экзамен CKA: Certified Kubernetes Administrator Exam | Виктор Ведмич](https://youtu.be/ARhQDrPgd0E)
-## [Theoretical part] Presentations and books (~60-80h)
+# CKA Learn Path 2023
 
 ==Description==
 
@@ -9,7 +7,7 @@ The material from youtube video [Как сдать экзамен CKA: Certified
 1. You need to buy the following course:[**https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/**](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 Here you can find all the theories for the exam. Also, it contains a practical part crucial for good preparation. A lot of practice tasks, almost the same as will be on the real exam. 
 **Please be careful**, the standard price of the course is around **10-15$**
-2. Optional, but useful [CloudGuru course](https://learn.acloud.guru/course/certified-kubernetes-administrator/overview) 
+2. Optional, but useful [Ultimate Certified Kubernetes Administrator (CKA) Mock Exam Series](https://kodekloud.com/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam/) 
 
 ### STUDY OFFICIAL COURSES (~2 MONTHS )
 The part consists of the following theoretical materials:
@@ -29,10 +27,8 @@ P.S. Here you will find my story of the exam: [Russian version](https://www.ins
 - [ ] [Refresh you knowledge about Docker (6-10h)](https://container.training/intro-selfpaced.yml.html#1) presentation about docker (~800 slides)
 - [ ] [Community presentation about k8s](https://container.training/kube-selfpaced.yml.html#1)
 - [ ] Udemy course has been completed (theory part)
-- [ ] CloudGuru course has been completed (theory part)
 - [ ] Practical part in Udemy course has been done 2-3 times
-- [ ] Practical part in CloudGuru course has been done 2-3 time
-- [ ] Practical course: [**https://github.com/sbeliakou/playpit-labs**](https://github.com/sbeliakou/playpit-labs) **(_Special thanks for Siarhei Beliakou here_)**
+- [ ] Practical part in KodeKloud course 
 - [ ] Flash cards to remember what you've learned. The flash cards are based on Linux Academy cards + my own (password: vedmich)
 
 ==Optional==
@@ -46,7 +42,6 @@ P.S. Here you will find my story of the exam: [Russian version](https://www.ins
 -   Please make sure that in labs you have the **version of Kubernetes** that is supposed to be on the **exam**, or there is no super difference with the latter.
 -   Setup **auto-completion** in Bash for 'kubectl' as well as alias (for instance, 'k' instead of typing 'kubectl' every time). Tmux and other hard things you may find on the Internet are not necessary.
 -   Use **only official docs** relevant to the version of Kubernetes that is going to be on the exam.
--   Draw your attention that **CNI** topics of the docs don't include direct links for installing CNI, but, there will be at least one place with that (in HA clusters docs).
 -   Get into the habit of doing **self-checking** after completion of any of the labs regardless of they are auto-checked. On the exam, you have to do that on your own.
 
 
@@ -72,12 +67,7 @@ Proceed with the link [**https://www.cncf.io/certification/cka/**](https://www.
 2) On each computer please do the following:
 - Install Google Chrome (_if possible, please disable for a while all pop-up apps and so on_) 
 - Do compatible check [https://www.examslocal.com/ScheduleExam/Home/CompatibilityCheck](https://www.examslocal.com/ScheduleExam/Home/CompatibilityCheck) 
-3) Add to bookmarks 
-- [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-- [https://kubernetes.io/docs/concepts/](https://kubernetes.io/docs/concepts/)
-- [https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
-- [https://github.com/kubernetes](https://github.com/kubernetes)
-- your favorite ones
+3) Use external WebCamera and external monitor. 
 
 #### Self-check:
 -   Make sure that you repeat 2+ times the practice from Udemy or Siarhei Beliakou (links on the practice section).

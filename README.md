@@ -58,7 +58,6 @@ Proceed with the link [**https://www.cncf.io/certification/cka/**](https://www.
 -   hotkeys for copy/paste commands
 -   clusters will be on the exam
 -   Read the [handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook) (for example, if you need water during the 2 hours you have to use only transparent dishes like a glass)
-3. Register in the slack [Kubernetes community](https://kubernetes.slack.com/messages/kubernetes-users/) and pick up the **latest news** about the **exam** from those who passed/not passed (_find kind of CKA therein_).
 
 #### Prepare your local computer
 1) As a piece of good advice, you should set up at **least 2 computers**, one of them should be autonomous by a power supply (e.g. notebook)
